@@ -1,2 +1,3 @@
-# Welcome to Kang's githib profile! 
-![LeetCode Stats](https://leetcard.jacoblin.cool/gamebusterisme?theme=wtf&font=ABeeZee&ext=heatmap)
+# Welcome to Kang's GitHub profile! 
+![LeetCode Stats](https://leetcard.jacoblin.cool/CJKang0601?theme=wtf&font=ABeeZee&ext=heatmap)
+
